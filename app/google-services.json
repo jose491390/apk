@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806630143335",
+    "project_id": "ga8-220501096-aa2-ev02-apk",
+    "storage_bucket": "ga8-220501096-aa2-ev02-apk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806630143335:android:24464f090e2c4d7b602bc2",
+        "android_client_info": {
+          "package_name": "com.example.ga8_220501096_aa2_ev02_apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXiR9WRBY8p4WhtOF2LV2vgEUmCgn4nPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
